@@ -91,7 +91,7 @@ setup_environment() {
 
     # Event Grid IPs
     PROXY_IP="4.217.249.140"
-    ASYNC_PUBIP="20.249.201.23"
+    ASYNC_PUBIP="20.214.193.100"
     SUB_ENDPOINT=""
 
     LOG_FILE="deployment_${NAME}.log"
